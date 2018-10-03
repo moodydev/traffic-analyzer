@@ -1,0 +1,5 @@
+jupyter
+kafka-python
+psycopg2
+pytest
+redis
